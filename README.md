@@ -1,1 +1,1 @@
-# Daellarrek.github.io
+# Hello everyone! This is a webpage that goes over some information about myself, as well as how to contact me and some of the work that I have done.
